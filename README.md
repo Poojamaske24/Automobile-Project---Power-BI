@@ -31,6 +31,16 @@ Our analyses uncover valuable insights, such as:
 The Performance Analysis of the Automobile Industry project equips stakeholders with actionable insights to optimize business strategies and improve overall performance. By leveraging the power of Power BI and data-driven decision-making, organizations can stay ahead of the competition and drive sustainable growth in the dynamic automotive market.
 
  
+![Automobile1](https://github.com/Poojamaske24/Automobile-Project---Power-BI/assets/153622264/22b9bc32-ffe4-4481-aeeb-a9378e2a3509)
+
+
+![Automobile2](https://github.com/Poojamaske24/Automobile-Project---Power-BI/assets/153622264/bca6ec96-d128-41af-b635-53290613241a)
+
+
+![Automobile3](https://github.com/Poojamaske24/Automobile-Project---Power-BI/assets/153622264/135ef9dc-3122-4192-8f8b-3630c81c057f)
+
+
+ 
 
  
 
